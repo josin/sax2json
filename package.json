@@ -5,7 +5,7 @@
 , "main": "./lib/index.js"
 , "scripts" : { "test" : "node ./tests/test.js" }
 , "dependencies": {
-    "sax": "0.3.x"
+    "sax": "0.5.x"
   }
 , "repository": {
     "type": "git"
